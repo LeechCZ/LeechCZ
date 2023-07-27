@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leech</h1>
-<h3 align="center">an IT student for Czech republic</h3>
+<h3 align="center">an IT student from Czech republic</h3>
 
 - 🌱 I’m currently learning **.java, .js**
 
